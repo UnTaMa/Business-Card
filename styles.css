@@ -1,0 +1,35 @@
+body {
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    margin: 40 auto;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #FFF, 0 0 15px #FFF
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #a70b0b;
+    color: #2b2839 bold;
+    border: 15px solid #850a0a;
+    font-size: 20px;
+    border-radius: 10px;
+    text-shadow: 0 0 3px #FFF, 0 0 5px #FFF;
+
+}
+
+
+/*
+Final challenge:
+Download the code to your local computer and place it
+in a folder called "business-card"
+*/
